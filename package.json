@@ -1,0 +1,23 @@
+{
+  "name": "proffy-server",
+  "version": "1.0.0",
+  "description": "An back end madded in Lext Level Week of Rocketseat with NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clovis-Chakrian/Proffy-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clovis-Chakrian/Proffy-Server/issues"
+  },
+  "homepage": "https://github.com/Clovis-Chakrian/Proffy-Server#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
